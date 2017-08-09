@@ -27,13 +27,15 @@ Deep Learning là một mở rộng của lĩnh vực trí tuệ nhân t
 
 Và còn rất rất nhiều ứng dụng khác của DL. (Bạn đọc có thể xem thêm [8 Inspirational Applications of Deep Learning](8 Inspirational Applications of Deep Learning))  
 
-## Lộ trình học DL cho người mới bắt đầu                 
-Để có thể hiểu sâu về mảng này, bạn cần có một chút kiến thức về Machine Learning và Python.             
+## Lộ trình học Deep Learning cho người mới bắt đầu                 
+Để có thể hiểu sâu về mảng này, bạn cần có kiến thức căn bản về Machine Learning và lập trình với Python.             
 Đầu tiên, đó là khóa học Machine Learning của thầy [Andrew Ng trên Coursera](https://www.coursera.org/learn/machine-learning).
-Đây là một khóa học rất hay cho những ai muốn bắt đầu với Machine Learning. Khóa học do thầy Andrew Ng - một trong những người đầu ngành về cả Machine Learning và Deep Learning.                                       
+Đây là một khóa học rất hay cho những ai muốn bắt đầu với Machine Learning. Khóa học do thầy Andrew Ng - một trong những người đầu ngành về cả Machine Learning và Deep Learning.  
+
 Nếu bạn yếu anh văn không theo kịp khóa học trên, tôi đề xuất bạn tham khảo blog [machinelearningcoban.com](machinelearningcoban.com) của anh [Tiệp Vũ](http://www.personal.psu.edu/thv102/). Blog được viết bằng tiếng Việt, khá chi tiết với nhiều thuật toán có kèm code rất dễ hiểu đặc biệt đối với những người mới. 
+
 Sau khi có những kiến thức cơ bản về ML, chúng ta hãy bắt đầu với Blog *Tự học Deep Learning*        
-Bài viết tiếp theo của blog, tôi sẽ giới thiệu về TensorFlow và hướng dẫn cài đặt trên CPU/GPU. Sau đó là các bài tập được thiết kế để dùng TensorFlow, rất hữu ích khi áp dụng vào thực tiễn.          
+Bài viết tiếp theo của blog, tôi sẽ giới thiệu về TensorFlow và hướng dẫn cài đặt TensorFlow trên CPU/GPU. Sau đó là các bài tập được thiết kế để dùng TensorFlow, rất hữu ích khi áp dụng vào thực tiễn.          
  
 Một số tài lệu tham khảo:     
 (1) Deep Learning, I. Goodfellow, Y. Bengio, and A. Courville, An MIT Press Book, [http://www.deeplearningbook.org/](http://www.deeplearningbook.org/), 2016.   
