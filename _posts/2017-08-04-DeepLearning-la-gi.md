@@ -23,8 +23,9 @@ Deep Learning là một mở rộng của lĩnh vực trí tuệ nhân t
 - Hoặc là [Restore colors in B&W photos and videos](http://hi.cs.waseda.ac.jp/~iizuka/projects/colorization/extra.html)     
 
 <img width="811" alt="screen-shot-2017-03-13-at-6 05 43-pm" src="https://user-images.githubusercontent.com/30632486/29122283-b7c85590-7d4c-11e7-857a-57338b334f35.png">         
-*Deep Learning network restores the color of old black & white photos*                            
-Và còn rất rất nhiều ứng dụng khác của DL. (Xem thêm [8 Inspirational Applications of Deep Learning](8 Inspirational Applications of Deep Learning))  
+*Deep Learning network restores the color of old black & white photos*  
+
+Và còn rất rất nhiều ứng dụng khác của DL. (Bạn đọc có thể xem thêm [8 Inspirational Applications of Deep Learning](8 Inspirational Applications of Deep Learning))  
 
 ## Lộ trình học DL cho người mới bắt đầu                 
 Để có thể hiểu sâu về mảng này, bạn cần có một chút kiến thức về Machine Learning và Python.             
@@ -37,7 +38,5 @@ Bài viết tiếp theo của blog, tôi sẽ giới thiệu về TensorFl
 Một số tài lệu tham khảo:     
 (1) Deep Learning, I. Goodfellow, Y. Bengio, and A. Courville, An MIT Press Book, [http://www.deeplearningbook.org/](http://www.deeplearningbook.org/), 2016.   
 (2) Machine Learning to Deep Learning, Deepcumen AI Research Group, kyobobook.co.kr, 2015.  
-(3) Selected Journal/Conference Papers
-(4) 
 
 *Đang update*
