@@ -11,19 +11,14 @@ Deep Learning là một mở rộng của lĩnh vực trí tuệ nhân t
 
 ![a3](https://user-images.githubusercontent.com/30632486/29128937-457c1256-7d60-11e7-913e-c0f6fca767a1.jpg)
 
-- Ứng dụng DL để mô tả hình ảnh: Facebook có thể tự động tag bạn bè của bạn trong tấm ảnh hoặc Google Photos có thể tự động gắn nhãn ảnh của bạn để tìm kiếm dễ dàng hơn...  
+- Hay Ứng dụng DL để mô tả hình ảnh: Facebook có thể tự động tag bạn bè của bạn trong tấm ảnh hoặc Google Photos có thể tự động gắn nhãn ảnh của bạn để tìm kiếm dễ dàng hơn...  
 
 ![densecap_more](https://user-images.githubusercontent.com/30632486/29109834-786abbcc-7d1f-11e7-9a12-1f58b030e7bf.jpg)       
 *A Deep Learning network automatically segments an image and writes a short sentence describing each segment with a proper English grammar* 
 
-- Hay [Real-time multi-person pose estimation](https://www.youtube.com/watch?v=pW6nZXeWlGM): Ứng dụng DL để theo dõi chuyển động của nhóm nhiều người, vượt trội hơn cả Kinect V1, V2 (giới hạn chỉ 6 người).  
+- Hoặc là [Real-time multi-person pose estimation](https://www.youtube.com/watch?v=pW6nZXeWlGM): Ứng dụng DL để theo dõi chuyển động của nhóm nhiều người, vượt trội hơn cả Kinect V1, V2 (giới hạn chỉ 6 người).  
 
 ![shake](https://user-images.githubusercontent.com/30632486/29120605-fe6c2afa-7d45-11e7-8b44-06f1a013394c.gif)  
-
-- Hoặc là [Restore colors in B&W photos and videos](http://hi.cs.waseda.ac.jp/~iizuka/projects/colorization/extra.html)     
-
-<img width="811" alt="screen-shot-2017-03-13-at-6 05 43-pm" src="https://user-images.githubusercontent.com/30632486/29122283-b7c85590-7d4c-11e7-857a-57338b334f35.png">         
-*Deep Learning network restores the color of old black & white photos*  
 
 Và còn rất rất nhiều ứng dụng khác của DL. (Bạn đọc có thể xem thêm [8 Inspirational Applications of Deep Learning](8 Inspirational Applications of Deep Learning))  
 
