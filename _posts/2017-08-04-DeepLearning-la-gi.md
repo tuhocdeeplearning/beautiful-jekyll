@@ -24,8 +24,8 @@ Và còn rất rất nhiều ứng dụng khác của DL. (Bạn đọc c
 
 ## Lộ trình học Deep Learning cho người mới bắt đầu                 
 Để có thể hiểu sâu về mảng này, bạn cần có kiến thức căn bản về Machine Learning và lập trình với Python.             
-Đầu tiên, đó là khóa học Machine Learning của thầy [Andrew Ng trên Coursera](https://www.coursera.org/learn/machine-learning).
-Đây là một khóa học rất hay cho những ai muốn bắt đầu với Machine Learning. Khóa học do thầy Andrew Ng - một trong những người đầu ngành về cả Machine Learning và Deep Learning.  
+Nếu bạn chưa biết Machine Learning là gì và những khái niệm căn bản, tôi giới thiệu các bạn khóa học Machine Learning của thầy [Andrew Ng trên Coursera](https://www.coursera.org/learn/machine-learning).
+Đây là một khóa học miễn phí, rất hay cho những ai muốn bắt đầu với Machine Learning. Khóa học do thầy Andrew Ng - một trong những người đầu ngành về cả Machine Learning và Deep Learning.  
 
 Nếu bạn yếu anh văn không theo kịp khóa học trên, tôi đề xuất bạn tham khảo blog [machinelearningcoban.com](machinelearningcoban.com) của anh [Tiệp Vũ](http://www.personal.psu.edu/thv102/). Blog được viết bằng tiếng Việt, khá chi tiết với nhiều thuật toán có kèm code rất dễ hiểu đặc biệt đối với những người mới. 
 
