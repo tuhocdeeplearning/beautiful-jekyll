@@ -3,7 +3,7 @@ layout: post
 title: Giới thiệu về Deep Learning
 subtitle: Deep Learning là gì và lộ trình học
 tags: [MachineLearning, DeepLearning] 
-bigimg: /img/path.jpg
+#bigimg: /img/path.jpg
 ---
 ## Deep Learning là gì?        
 Deep Learning là một mở rộng của lĩnh vực trí tuệ nhân tạo (AI- Artificial Intelligence). Cụ thể hơn, nó là một nhánh nhỏ của Machine Learning, một kỹ thuật cho phép hệ thống máy tính cải tiến với sự chính xác cao. Trong những năm gần đây, Deep Learning ngày càng trở nên phổ biến bởi vì những ứng dụng đặc biệt của nó. Chính vì thế, những công ty lớn như Google, Microsoft, Facebook đều nắm trong tay những công nghệ DL quy mô lớn nhất. Có thể kể đến như:   
