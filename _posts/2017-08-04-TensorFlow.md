@@ -3,10 +3,10 @@ layout: post
 title: Hướng dẫn cài đặt TensorFlow trên Window
 subtitle: 
 tags: [tensorflow, DeepLearning] 
-bigimg: 
+bigimg:  /img/tt.jpg
 comments: true
 ---
-TensorFlow là nền tảng được sử dụng nhiều nhất trong các hệ thống Deep Learning hiện nay. Đặc trưng của TensorFlow là xử lý được tất cả các loại dữ liệu có thể biểu diễn dưới dạng data flow graph hay low level như xử lý chữ viết tay. Tensorflow được viết bằng C++ và Python. Có nhiều cách để cài đặt Tensorflow, chạy trên 1 hoặc nhiều CPU, GPU, di chuyển desktop, mobile lên server mà không cần phải code lại. 
+TensorFlow là thư viện được sử dụng nhiều nhất trong các hệ thống Deep Learning hiện nay. Đặc trưng của TensorFlow là xử lý được tất cả các loại dữ liệu có thể biểu diễn dưới dạng data flow graph hay low level như xử lý chữ viết tay. Tensorflow được viết bằng C++ và Python. Hiện nay, có nhiều cách để cài đặt Tensorflow, chạy trên 1 hoặc nhiều CPU, GPU, di chuyển desktop, thậm chí cả smartphone cũng có thể sử dụng được.               
 Sau đây tôi sẽ giới thiệu về cách cài đặt tensorflow trên Window với CPU.
 
 ## Yêu cầu
