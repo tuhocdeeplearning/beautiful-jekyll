@@ -7,19 +7,12 @@ bigimg:
 comments: true
 ---
 TensorFlow là nền tảng được sử dụng nhiều nhất trong các hệ thống Deep Learning hiện nay. Đặc trưng của TensorFlow là xử lý được tất cả các loại dữ liệu có thể biểu diễn dưới dạng data flow graph hay low level như xử lý chữ viết tay. Tensorflow được viết bằng C++ và Python. Có nhiều cách để cài đặt Tensorflow, chạy trên 1 hoặc nhiều CPU, GPU, di chuyển desktop, mobile lên server mà không cần phải code lại. 
-Sau đây tôi sẽ giới thiệu về cách cài đặt tensorflow trên Window với CPU: 
+Sau đây tôi sẽ giới thiệu về cách cài đặt tensorflow trên Window với CPU.
+
+## Yêu cầu
   1. Window 7/8/8.1/10 64bit
   2. Anaconda 4.2.0 với Python 3.5.x
-  3. NVIDIA GPU card with CUDA Compute Capability 3.0 or higher
-  4. Visual Studio 2010/2012/2013/2015 (2015 is recommended)
-  5. The latest NVIDIA driver
-  6. CUDA® Toolkit 8.0
-  7. cuDNN v5.1
-  
-## Tensorflow với CPU hỗ trợ
-
-- Yêu cầu 1, 2
-- TensorFlow 1.0.1
+  3. TensorFlow 1.0.1
 
 **Bước 1: Cài đặt Anaconda với python 3.5** 
   Download: [Anaconda](https://repo.continuum.io/archive/Anaconda3-4.2.0-Windows-x86_64.exe)  
